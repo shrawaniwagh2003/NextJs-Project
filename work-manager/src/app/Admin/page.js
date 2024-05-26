@@ -10,6 +10,7 @@ async function TakeTime()
 
 
 export default async function Admin(){
+    
     await TakeTime();
     return (
         <div>
