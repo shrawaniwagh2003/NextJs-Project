@@ -1,1 +1,1 @@
-# Work_Manager_Next.js_Project
+# Nextjs Project
