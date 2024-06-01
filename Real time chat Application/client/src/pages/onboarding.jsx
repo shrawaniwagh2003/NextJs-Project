@@ -15,6 +15,9 @@ function Onboarding() {
       <h2 className="text-2xl">Create Your Profile</h2>
       <div className="flex gap-6 mt-5">
         <div className="flex flex-col items-center justify-center mt-5 gap-6">
+
+
+          
         </div>
       </div>
     </div>
